@@ -6,7 +6,9 @@
       "name": "衣索比亞 日曬 西達馬 班莎 阿洛村 74158 單一品種 G1 2300m",
       "country": "Ethiopia",
       "region": "Sidama",
-      "variety": [],
+      "variety": [
+        "74158"
+      ],
       "processing": "Natural",
       "roasterName": "",
       "roastLevel": "Medium-Light",
@@ -14,8 +16,8 @@
       "userRating": null,
       "tastingNotes": "",
       "notes": "",
-      "farm": "",
-      "altitude": "",
+      "farm": "Bensa Alo",
+      "altitude": "2300",
       "harvestYear": "",
       "purchaseDate": null,
       "priceAmount": null,
@@ -38,7 +40,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-03-13T15:14:40.699Z",
-      "updatedAt": "2026-03-13T15:14:40.699Z"
+      "updatedAt": "2026-03-13T15:16:27.567Z"
     }
   ],
   "profiles": [
