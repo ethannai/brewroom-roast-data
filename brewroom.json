@@ -18,8 +18,8 @@
       "userRating": null,
       "tastingNotes": "",
       "notes": "",
-      "farm": "",
-      "altitude": "",
+      "farm": "Las Flores百花艷",
+      "altitude": "2100m",
       "harvestYear": "",
       "purchaseDate": null,
       "priceAmount": null,
@@ -42,7 +42,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-04-01T14:33:33.440Z",
-      "updatedAt": "2026-04-01T14:33:33.440Z"
+      "updatedAt": "2026-04-01T15:01:45.373Z"
     },
     {
       "id": "b039271772",
